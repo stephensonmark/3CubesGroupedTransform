@@ -1,16 +1,3 @@
-# Three.js Journey
+3 Cubes created with Three.JS on WebGL Grouped and Transformed.
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+![Screenshot 2024-10-10 180103](https://github.com/user-attachments/assets/84719fcf-3df8-450b-9f79-0218b0a2e368)
